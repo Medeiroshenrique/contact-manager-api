@@ -1,4 +1,4 @@
-# Agenda de Contatos
+# Contact Manager API
 
 ![Java Version](https://img.shields.io/badge/Java-17%2B-orange?style=flat-square&logo=java)
 ![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=flat-square&logo=spring)
@@ -24,7 +24,7 @@ Uma API RESTful robusta e escalável desenvolvida para a gestão e organização
 
 ## 🔍 Visão Geral
 
-A **Agenda de Contatos** é uma solução de backend estruturada para atuar como o núcleo de aplicações de comunicação ou gestão de relacionamento. O projeto expõe uma API que permite o armazenamento seguro e a manipulação ágil de informações cadastrais, estruturada de forma a suportar integrações com aplicações Web, Mobile ou serviços externos de sincronização.
+Este projeto expõe uma API que permite o armazenamento e a manipulação ágil de informações cadastrais, estruturada de forma a suportar integrações com aplicações Web, Mobile ou serviços externos de sincronização.
 
 ## ⚙️ Funcionalidades Principais
 
